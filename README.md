@@ -7,7 +7,7 @@
 
 由于笔记中有部分公式是以表格的方式展示，为了良好的浏览效果，请在 Typora 的偏好设置（command + ,）中，打开  "Macdown - 内联公式" 设置。
 
-<img src="/Users/yangchengguoluo/Documents/work/Note_Math/pic_readme/Typora设置.png" style="zoom:50%;" />
+<img src="./pic_readme/Typora设置.png" style="zoom:50%;" />
 
 
 
